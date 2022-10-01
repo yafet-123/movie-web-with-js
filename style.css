@@ -1,0 +1,18 @@
+body {
+  background-color: #111;
+  color: white;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+.profile {
+    position: relative;
+}
+  
+.profile > img {
+    width: 40px;
+}
+
+.profile:hover .dropdown-container {
+    display: block;
+}
