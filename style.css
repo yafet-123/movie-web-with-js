@@ -33,8 +33,7 @@ body {
   display: block;
 }
 
-.original__movies,
-.movies__container {
+.original__movies, .movies__container {
   padding-left: 50px;
   display: flex;
   overflow-x: scroll;
@@ -124,8 +123,7 @@ img {
   );
 }
 
-.netflixOriginals h2,
-.movies__header h2 {
+.netflixOriginals h2, .movies__header h2 {
   padding-left: 30px;
 }
 
